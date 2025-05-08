@@ -1,2 +1,2 @@
-# aBasicCaculator
+# aBasicCalculator
 Learn Java
